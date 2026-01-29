@@ -21,10 +21,3 @@ My journey started with building user interfaces, but my curiosity about "how th
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Bahri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayzabar&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayzabar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
