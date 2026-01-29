@@ -7,7 +7,7 @@ My journey started with building user interfaces, but my curiosity about "how th
 ---
 
 - 🔭 I’m currently working on **[Lite-Redis](https://github.com/ayzabar/lite-redis)** (A thread-safe, dockerized Redis clone in Go).
-- 🐧 I daily drive **Arch Linux** with **Neovim**.
+- 🐧 I daily drive **Arch Linux** with **Neovim**. (btw)
 - 🌱 I’m currently diving deep into **Go, C, TCP/IP, Docker, and Linux**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bahri-ayzabar-9511b3303/)
 
